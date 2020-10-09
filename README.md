@@ -11,7 +11,7 @@ One of my goals for this project was to decrease development time with as little
 
 
 ## Demo
-You can view the demo [here]("https://handymanjacek.com").
+You can view the demo [here](https://handymanjacek.com).
 
 
 ## Installation
