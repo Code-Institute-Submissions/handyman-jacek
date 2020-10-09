@@ -1,24 +1,29 @@
 # handyman-jacek
+##### Code Institute / Interactive Front-End Development
 
-This is a simple landing page to be used for a freelancing handyman.
+I was tasked with building a website which used HTML, CSS, and JavaScript. And as it just so happens that my uncle was in dire need of a website to get his business going, I though that building him a page should do the trick while also getting me through the project criteria. 
+
+One of my goals for this project was to decrease development time with as little affect on performance and readability. And as the project came to a close, I feel as though I have somewhat achieved that with the libraries I have used.
+
+
+## User Stories
+- As someone in need of a handyman, I would like to be able to see Jacek's contact information as well as what he specializes in and any previous work he has done within the community. 
+
 
 ## Demo
+You can view the demo [here]("https://handymanjacek.com").
 
-You can view the demo [here]("https://google.com").
 
 ## Installation
-
 Starting the project in development mode locally.
 
 **with yarn**:
-
 ```
 yarn
 yarn start
 ```
 
 **with npm:**
-
 ```
 npm i
 npm start
@@ -26,22 +31,13 @@ npm start
 
 Then open it at [http://localhost:3000](http://localhost:3000).
 
-## Deployment
 
+## Deployment
 To deploy with gcloud please...
 
-## User Stories
-
-### Someone in need of a handyman, would like to see:
-
-1. Has previous experience with the task they need done.
-2. A friendly face within their community.
-3. Can easily contact the handyman.
 
 ## Technologies
-
 - React
-
   > Helps me maintain a programming standard, increasing readability and boilerplate.
 
   - Formik
@@ -76,21 +72,17 @@ To deploy with gcloud please...
   - Mongoose/Typegoose
     > Creates a layer of type safety (Using typescript types) to prevent your db from receiving bad data. Helps maintain a programming standard, increasing readability.
 
-### **Overview**
 
-My goal was to decrease development time, with as little affect on performance and readability.
-I feel as if i've somewhat achieved it with the libraries I have used.
 
 ## UI Design with Figma
-
 ### **Home Page**
-
 As this was a landing page that primarly targets mobile devices, I had to be tight with spacing and careful with the content.
+
 ![alt text](https://i.imgur.com/Pe86Nwv.png)
 ![alt text](https://i.imgur.com/qwZe3Ma.png)
 ![alt text](https://i.imgur.com/pghDif8.png)
 
 ### **Services Page**
-
 The aim for this page was to expand upon the card found within the landing page, to provide additional information.
+
 ![alt text](https://i.imgur.com/iRZ5t4r.png)
